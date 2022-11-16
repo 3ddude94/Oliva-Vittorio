@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oliva-Vittorio
+- 👋 Hi, I’m @Vittorio
 - 👀 I’m interested in videogame, movies, tv shows and dancing.
 - 🌱 I’m currently learning.. nothing. I like to experiment new front-end frameworks.
 - 💞️ I’m looking to collaborate on ...
